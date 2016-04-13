@@ -26,3 +26,16 @@
 *.exe
 *.out
 *.app
+
+# Autotools generated files
+Makefile
+.dirstamp
+stamp-h1
+.deps
+autom4te.cache
+config.log
+
+# Project specific
+config-hello.h
+testhello
+hello
