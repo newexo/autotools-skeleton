@@ -1,7 +1,7 @@
 autotools-skeleton
 ==================
 
-I use this skeleton autotools project when I begin a new C++ project. For convenience, I keep this here in a github repository. Since there is nothing secret about this, I see no reason for the repository to be private. Perhaps others may find this useful, since I have found no other examples of skeleton autotools projects. This repository contains all of the files needed to create a very basic `configure` file, which in turn will generate a cross-compiling a makefile.
+Use this skeleton autotools project to begin a new C++ project. This repository contains all of the files needed to create a very basic `configure` file, which in turn will generate a cross-compiling a makefile.
 
 The requirements to use this are `autoconf`, `automake` and `libtool`, which are available with most Linux distributions, or Homebrew on Mac.
 
